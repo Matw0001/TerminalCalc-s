@@ -1,6 +1,6 @@
 # TerminalCalc-S. v1.0 ⚡
 
-Calculadora simples via terminal feita C#.
+Calculadora simples via terminal feita em C#.
 Foi criada com objetivo de praticar lógica de programação e estrutura básica em C#.
 
 ## Funcionalidades;
